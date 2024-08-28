@@ -4,5 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+### 안녕하세요. 개발자 김세린입니다. ✨
+
+현재 스타트업에서 주니어 백엔드 엔지니어로 일하고 있습니다.  
+주된 기술 스택은 Kotlin, Spring boot, Postgresql 입니다.  
+업무에 참가해 보았던 기술 스택은 AWS의 인프라 구축을 위한 서비스들 입니다.
+
+주니어 개발자로서 열심히 노력하던 고민의 흔적들과 공부 기록들을 남기기 위해 이 블로그를 개설하였습니다.  
+스스로 일어서서 나아갈 수 있는 힘을 기르기 위해 열심히 정원을 가꿔나가고 있습니다. 우연히 이 글을 보게 되셨다면 우리 모두에게 응원의 메세지를 보냅니다!
