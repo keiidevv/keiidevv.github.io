@@ -1,13 +1,12 @@
 ---
-title: [LeetCode] 88. Merge Sorted Arrys
+title: LeetCode | 88. Merge Sorted Arrys
 author: serin
 date: 2024-09-02 20:16:00 +0900
 categories: [Algorithm, Leetcode]
 tags: [Easy]
-pin: false
 image:
   path: /assets/img/Algorithm/20240902/main.png
-  alt: mainCPU
+  alt: main
 ---
 
 ## [Merge Sorted Arrys](https://leetcode.com/problems/merge-sorted-array/description)
