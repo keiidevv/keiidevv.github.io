@@ -46,7 +46,7 @@ Two pointer 기법은 리스트에 순차적으로 접근해야 할 때, 두 개
 
 실제 동작하는 예시를 통해서 어떻게 구해 나갈지를 고민해 보았다. 아래와 같이 동작할 것을 예상하고 풀이 코드를 작성하였다.
 
-![example](/assets/img/Algorithm/20240903/example.jpeg)
+![example](/assets/img/Algorithm/20240903/example.jpeg){: .w-75 .normal}
 
 ### 🔥 풀이 코드
 
@@ -67,7 +67,7 @@ class Solution {
 
 막상 작성하니 매우 간단한 코드!
 
-![result](/assets/img/Algorithm/20240903/result.png){: .left}
+![result](/assets/img/Algorithm/20240903/result.png)
 
 ### 🙆‍♀️ 배우게 된 점
 
