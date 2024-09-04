@@ -27,7 +27,7 @@ The final sorted array should not be returned by the function, but instead be *s
 ### ✨ 접근 방법
 
 > Two Pointer 기법을 사용하여 선형 자료 구조를 탐색하자.
-> {: .prompt-tip }
+{: .prompt-tip }
 
 주어진 예시를 보면, nums1의 길이는 이미 nums2와의 길이 합으로 이루어져 있고, 긴 나머지 부분은 0으로 채워져 있는 것을 볼 수 있다.  
 뒤 쪽 인덱스부터 높은 순서로 값을 비교해나가며 채워 넣으려는 아이디어에서 시작되었다.

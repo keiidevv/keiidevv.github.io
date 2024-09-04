@@ -28,16 +28,16 @@ Consider the number of unique elements of `nums` to be `k`, to get accepted, you
    2. 상대적 순서를 유지하기
    3. 결과인 `k` 를 반환하기
 
-> Input: nums = [1,1,2]
+> Input: nums = [1,1,2]  
 > Output: 2, nums = [1,2,_]
 
->Input: nums = [0,0,1,1,1,2,2,3,3,4]
+>Input: nums = [0,0,1,1,1,2,2,3,3,4]  
 > Output: 5, nums = [0,1,2,3,4,_,_,_,_,_]
 
 ### ✨ 접근 방법
 
 > Two Pointer 기법을 사용하여 인덱스별 값과 주어진 값을 비교해 나가자.
-> {: .prompt-tip }
+{: .prompt-tip }
 
 27번 문제를 먼저 풀었는데.. 이 문제가 나에겐 조금 더 복잡했다.  
 처음에 든 아이디어는, 해당 배열은 굳이 뒤에서부터 비교해나갈 필요가 없고, 앞에서부터 중복이 아닌 값들을 체크해서 유니크 값들로만 채워나가면 될 것 같다.

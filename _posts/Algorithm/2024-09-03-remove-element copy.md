@@ -33,7 +33,7 @@ Consider the number of elements in `nums` which are not equal to `val` be `k`, t
 ### ✨ 접근 방법
 
 > Two Pointer 기법을 사용하여 인덱스별 값과 주어진 값을 비교해 나가자.
-> {: .prompt-tip }
+{: .prompt-tip }
 
 Two pointer 기법은 리스트에 순차적으로 접근해야 할 때, 두 개의 점위치를 기록하면서 처리하는 알고리즘이다. 특히 정렬 리스트, 병합 정렬에 매우 유용하다.  
 
