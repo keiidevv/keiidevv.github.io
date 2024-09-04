@@ -3,7 +3,7 @@ title: LeetCode | 27. Remove Element
 author: serin
 date: 2024-09-03 19:41:00 +0900
 categories: [Algorithm, Leetcode]
-tags: [Easy]
+tags: [Easy, Array, TwoPointers]
 image:
   path: /assets/img/Algorithm/20240903/main.png
   alt: main

@@ -3,7 +3,7 @@ title: LeetCode | 88. Merge Sorted Arrys
 author: serin
 date: 2024-09-02 20:16:00 +0900
 categories: [Algorithm, Leetcode]
-tags: [Easy]
+tags: [Easy, Array, TwoPointers]
 image:
   path: /assets/img/Algorithm/20240902/main.png
   alt: main
