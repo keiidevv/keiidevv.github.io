@@ -6,7 +6,7 @@ categories: [Algorithm, Basic]
 tags: [BigO]
 pin: false
 image:
-  path: /assets/img/Algorithm/20230518/시간복잡도1.png
+  path: /assets/img/Algorithm/2023/20230518/시간복잡도1.png
   alt: Big-O chart
 ---
 
@@ -58,7 +58,7 @@ image:
   - 알고리즘 최악의 실행 시간을 표시한다.
   - 이정도 시간까지 걸릴 수 있다를 고려한다.
 
-![시간복잡도2](/assets/img/Algorithm/20230518/시간복잡도2.png)
+![시간복잡도2](/assets/img/Algorithm/2023/20230518/시간복잡도2.png)
 _빅 오 시간 복잡도의 성능을 표현한 도표_
 
 - Y축인 Operations에 가까이 있을 수록 성능이 최악
