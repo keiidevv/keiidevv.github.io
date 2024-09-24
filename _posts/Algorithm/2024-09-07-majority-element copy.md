@@ -3,9 +3,9 @@ title: LeetCode | 169. Majority Element
 author: serin
 date: 2024-09-07 23:25:00 +0900
 categories: [Algorithm, Leetcode]
-tags: [Easy, Array, HashTable, ]
+tags: [Easy, Array, HashTable]
 image:
-  path: /assets/img/Algorithm/20240907/main.png
+  path: /assets/img/Algorithm/2024/09/07/main.png
   alt: main
 ---
 
@@ -62,7 +62,7 @@ class Solution {
 }
 ```
 
-![result](/assets/img/Algorithm/20240907/result.png)
+![result](/assets/img/Algorithm/2024/09/07/result.png)
 
 ### 🙆‍♀️ 배우게 된 점
 

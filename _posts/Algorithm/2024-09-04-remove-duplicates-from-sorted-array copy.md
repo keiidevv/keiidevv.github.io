@@ -5,7 +5,7 @@ date: 2024-09-04 19:57:00 +0900
 categories: [Algorithm, Leetcode]
 tags: [Easy, Array, TwoPointers]
 image:
-  path: /assets/img/Algorithm/20240904/main.png
+  path: /assets/img/Algorithm/2024/09/04/main.png
   alt: main
 ---
 
@@ -50,7 +50,7 @@ Consider the number of unique elements of `nums` to be `k`, to get accepted, you
 뭔가 머리속으로는 알 것 같은데, 실제 동작하는 코드를 어떻게 짤지가 고민되어서 아래처럼 직접 긴 예시를 가지고 동작을 손으로 확인해 보았다.  
 `k` 는 유니크한 값을 세는 역할도 하고, `i` 의 값을 비교해줄 인덱스 역할도 할 수 있다. 이렇게 중복값을 제거하며 배열에 반영해 나가면 `in-place` 요구사항을 만족시키면서 메모리를 효율적으로 사용할 수 있다.
 
-![example](/assets/img/Algorithm/20240904/example.jpeg){: .w-75 .normal}
+![example](/assets/img/Algorithm/2024/09/04/example.jpeg){: .w-75 .normal}
 
 ### 🔥 풀이 코드
 
@@ -76,7 +76,7 @@ class Solution {
 이렇게 진행할 경우의 공간 복잡도는 O(1) 이다.  
 추가로, 알고리즘만 반영했을 때에는 결과가 느려서 빈 배열 케이스를 추가하는 조건을 넣었더니 살짝 빨라졌다!
 
-![result](/assets/img/Algorithm/20240904/result.png)
+![result](/assets/img/Algorithm/2024/09/04/result.png)
 
 ### 🙆‍♀️ 배우게 된 점
 

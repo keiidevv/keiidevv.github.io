@@ -5,7 +5,7 @@ date: 2024-09-05 19:46:00 +0900
 categories: [Algorithm, Leetcode]
 tags: [Medium, Array, TwoPointers]
 image:
-  path: /assets/img/Algorithm/20240905/main.png
+  path: /assets/img/Algorithm/2024/09/05/main.png
   alt: main
 ---
 
@@ -48,7 +48,7 @@ Do **not** allocate extra space for another array. You must do this by **modifyi
    2. 배열의 인덱스는 계속 나아가며 nums[k]와 값을 비교해 나간다. 
 2. 단, 2번째 요소까지는 유일성이 보장되므로 k=2 부터 시작하면 된다.
 
-![example](/assets/img/Algorithm/20240905/example.jpeg){: .w-75 .normal}
+![example](/assets/img/Algorithm/2024/09/05/example.jpeg){: .w-75 .normal}
 
 ### 🔥 풀이 코드
 
@@ -97,7 +97,7 @@ class Solution {
 }
 ```
 
-![result](/assets/img/Algorithm/20240905/result2.png)
+![result](/assets/img/Algorithm/2024/09/05/result2.png)
 
 그 결과 살짝 중상위권으로 진입할 수 있었다! 👏 완벽하게 최적화는 아니지만, 조금씩 앞으로 나가는 고민들을 해 보았다.
 

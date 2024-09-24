@@ -5,7 +5,7 @@ date: 2024-09-02 20:16:00 +0900
 categories: [Algorithm, Leetcode]
 tags: [Easy, Array, TwoPointers]
 image:
-  path: /assets/img/Algorithm/20240902/main.png
+  path: /assets/img/Algorithm/2024/09/02/main.png
   alt: main
 ---
 
@@ -67,7 +67,7 @@ class Solution {
 }
 ```
 
-![result](/assets/img/Algorithm/20240902/result.png)
+![result](/assets/img/Algorithm/2024/09/02/result.png)
 
 ### 🙆‍♀️ 배우게 된 점
 
