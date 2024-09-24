@@ -71,7 +71,7 @@ class Solution {
 
 위 문제를 제출했을 때, 코드를 거의 수정하지 않고 냈더니 생각보다 느렸다! (왜지... 이전 문제는 이렇게까지 느리지 않았다.)
 
-![result](/assets/img/Algorithm/20240905/result.png)
+![result](/assets/img/Algorithm/2024/09/05/result.png)
 
 우선 풀이 방법 자체를 아얘 변경하기 보다는 그 안에서 최대한 최적화할 수 있도록 이것저것 시도해 보았다.  
 1. `nums[i] != nums[k-2]`
