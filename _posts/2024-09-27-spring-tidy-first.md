@@ -1,7 +1,7 @@
 ---
 title: SpringCamp | 켄트 벡의 Tidy First?
 author: serin
-date: 2023-09-27 18:15:00 +0900
+date: 2024-09-27 18:15:00 +0900
 categories: [Seminar, SpringCamp]
 tags: [SpringCamp, Architecture]
 image:
