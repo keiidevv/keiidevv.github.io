@@ -69,7 +69,7 @@ class Solution {
 }
 ```
 
-![result](/assets/img/Algorithm/2024/09/24/result.png)
+![result](/assets/img/Algorithm/2024/10/14/result.png)
 
 ### 🙆‍♀️ 배우게 된 점
 
